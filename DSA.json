@@ -1538,6 +1538,12 @@
     "topic": "Linkedlist",
     "question": "Reverse a Linked List in group of Given Size.",
     "answerLink": "https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1"
-}
+},
+{
+        "id": "125",
+        "topic": "DSA_array",
+        "question": "Find pair with given sum in the array",
+        "answerLink": "https://www.techiedelight.com/find-pair-with-given-sum-array/"
+},
 
 ]
